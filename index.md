@@ -4,4 +4,4 @@
  nav_order: 1
 ---
 
-# Introduction to Digital Project management
+# Introduction to Digital Project Management
